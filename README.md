@@ -62,19 +62,19 @@ IDLE → FILL → WASH → RINSE → SPIN → DONE
 
 ## 📂 Project Structure
 
-Washing-Machine-Controller/
-│
-├── src
-│   └── washing_machine_1.v
-│
-├── testbench
-│   └── washing_machine_tb.v
-│
-├── docs
-│   └── waveform.vcd
-│
-└── README.md
-
+   Washing-Machine-Controller\
+   │\
+   ├── src\
+   │   └── washing_machine_1.v\
+   │\
+   ├── testbench\
+   │   └── washing_machine_tb.v\
+   │\
+   ├── docs\
+   │   └── waveform.vcd\
+   │\
+   └── README.md\
+   
 ---
 
 ## ▶️ Simulation
