@@ -73,7 +73,7 @@ IDLE → FILL → WASH → RINSE → SPIN → DONE
    ├── docs\
    │   └── waveform.vcd\
    │\
-   └── README.md\
+   └── README.md
    
 ---
 
