@@ -62,13 +62,18 @@ IDLE → FILL → WASH → RINSE → SPIN → DONE
 
 ## 📂 Project Structure
 
-Washing-Machine-Verilog/
+Washing-Machine-Controller/
 │
-├── washing_machine_1.v
-├── washing_machine_tb.v
-├── waveform.vcd
+├── src/
+│   └── washing_machine_1.v
+│
+├── testbench/
+│   └── washing_machine_tb.v
+│
+├── docs/
+│   └── waveform.vcd
+│
 └── README.md
-
 
 ---
 
