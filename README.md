@@ -64,13 +64,13 @@ IDLE → FILL → WASH → RINSE → SPIN → DONE
 
 Washing-Machine-Controller/
 │
-├── src/
+├── src
 │   └── washing_machine_1.v
 │
-├── testbench/
+├── testbench
 │   └── washing_machine_tb.v
 │
-├── docs/
+├── docs
 │   └── waveform.vcd
 │
 └── README.md
